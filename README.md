@@ -16,8 +16,10 @@ Este proyecto fue creado con el fin de medir la humedad y detectar condiciones d
 
 ## Diagrama eléctrico
 
-<img src= "" width=450/>
+<img src= "https://user-images.githubusercontent.com/111079577/200980836-75db8f8a-2048-4008-bb98-f8750898247d.png" width=450/>
+
+<img src= "https://user-images.githubusercontent.com/111079577/200980861-217b71c0-9073-4196-8edf-85a0d8a56b04.png" width=450/>
 
 ## Diseño final del dipositivo
 
-<img src= "" width=450/>
+<img src= "https://user-images.githubusercontent.com/111079577/200980778-a18057bf-a607-492f-bbef-9193428bb4f4.png" width=450/>
